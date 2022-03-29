@@ -1,0 +1,4 @@
+C:/Users/Misan/Documents/GitHub/a89-915-Misan-Teodora/cmake-build-debug/CMakeFiles/a89_915_Misan_Teodora.dir
+C:/Users/Misan/Documents/GitHub/a89-915-Misan-Teodora/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Misan/Documents/GitHub/a89-915-Misan-Teodora/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Misan/Documents/GitHub/a89-915-Misan-Teodora/cmake-build-debug/CMakeFiles/a89_915_Misan_Teodora_autogen.dir

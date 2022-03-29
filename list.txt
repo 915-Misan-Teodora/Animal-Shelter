@@ -1,0 +1,4 @@
+Bulldog,Rockie,7,https://ro.wikipedia.org/wiki/Bulldog_francez#/media/Fi%C8%99ier:Confucius_De_la_Parure.jpg
+Samoyed,Max,10,https://upload.wikimedia.org/wikipedia/commons/f/f6/11.10.2015_Samoyed_%28cropped%29.jpg
+Shepherd Frai,Muffin,12,https://tinyurl.com/ytdn4kb6
+Shepherd,Lady,2,https://ladyDog.com
